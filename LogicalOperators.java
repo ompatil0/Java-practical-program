@@ -4,8 +4,8 @@ public class LogicalOperators {
         boolean x = true;
         boolean y = false;
 
-        System.out.println("AND: " + (x && y));
-        System.out.println("OR: " + (x || y));
-        System.out.println("NOT x: " + (!x));
+        System.out.println("AND : " + (x && y));
+        System.out.println("OR : " + (x || y));
+        System.out.println("NOT x : " + (!x));
     }
 }
